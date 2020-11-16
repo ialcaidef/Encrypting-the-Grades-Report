@@ -9,7 +9,7 @@ Nombres y apellidos: Ino Alcaide
 
 Fecha: 16/11/2020
 
-Resumen del Ejercicio: Creación de un certificado asimétrico
+Resumen del Ejercicio: Creación de un certificado asimétrico que será utilizado para encriptar un informe
 
 Dificultad o problemas presentados y como se resolvieron:
 
